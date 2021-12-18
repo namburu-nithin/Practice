@@ -1,4 +1,4 @@
-'''a python function that takes a sequence of integer  values and determines if there is a distinct pair of numbers in the sequence whose product is odd'''
+'''a python function  that takes a sequence of integer  values and determines if there is a distinct pair of numbers in the sequence whose product is odd'''
 def odd_no(seq,N):
   b=[]
   c=0
